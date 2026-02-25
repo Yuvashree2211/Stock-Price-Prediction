@@ -74,8 +74,17 @@ for epoch in range(epochs):
 
 ```
 
-## Output
 
+### Datasets
+# Training: 
+<img width="594" height="708" alt="image" src="https://github.com/user-attachments/assets/435321c2-addf-449e-82ee-575e0cf8ef3c" />
+
+# Testing: 
+
+<img width="593" height="697" alt="image" src="https://github.com/user-attachments/assets/bb03b776-d7a4-46b0-8f6b-7fa3fd5df9f3" />
+
+
+## Output
 ### True Stock Price, Predicted Stock Price vs time
 
 <img width="859" height="582" alt="image" src="https://github.com/user-attachments/assets/bad298a0-7ddd-4f15-8c52-63750eb150fd" />
