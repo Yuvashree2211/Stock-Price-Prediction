@@ -77,11 +77,13 @@ for epoch in range(epochs):
 
 ### Datasets
 # Training: 
-<img width="594" height="708" alt="image" src="https://github.com/user-attachments/assets/435321c2-addf-449e-82ee-575e0cf8ef3c" />
+<img width="660" height="403" alt="image" src="https://github.com/user-attachments/assets/eb6ff0ff-ba13-41d8-beb0-f5fa356e6c82" />
+
 
 # Testing: 
 
-<img width="593" height="697" alt="image" src="https://github.com/user-attachments/assets/bb03b776-d7a4-46b0-8f6b-7fa3fd5df9f3" />
+<img width="725" height="484" alt="image" src="https://github.com/user-attachments/assets/9c09ba51-c508-4462-9832-63d10f016835" />
+
 
 
 ## Output
